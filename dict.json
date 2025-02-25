@@ -1,0 +1,976 @@
+{
+    "materials science and engineering": [
+        [
+            "insulator",
+            "aislante"
+        ],
+        [
+            "structure",
+            "estructura"
+        ],
+        [
+            "composite",
+            "composite"
+        ],
+        [
+            "microstructure",
+            "microestructura"
+        ],
+        [
+            "tensile strength",
+            "resistencia a la tracci\u00f3n"
+        ],
+        [
+            "conductivity",
+            "conductividad"
+        ],
+        [
+            "polymer",
+            "pol\u00edmero"
+        ],
+        [
+            "composition",
+            "composici\u00f3n"
+        ],
+        [
+            "molding",
+            "moldeo"
+        ],
+        [
+            "conductive material",
+            "material conductivo"
+        ],
+        [
+            "vibration",
+            "vibraci\u00f3n"
+        ],
+        [
+            "fluctuation",
+            "fluctuaci\u00f3n"
+        ],
+        [
+            "compression",
+            "compresi\u00f3n"
+        ],
+        [
+            "flexibility",
+            "flexibilidad"
+        ],
+        [
+            "alloy",
+            "aleaci\u00f3n"
+        ],
+        [
+            "adhesion",
+            "adhesi\u00f3n"
+        ],
+        [
+            "precipitation",
+            "precipitaci\u00f3n"
+        ],
+        [
+            "glass",
+            "vidrio"
+        ],
+        [
+            "load",
+            "carga"
+        ],
+        [
+            "welding",
+            "soldadura"
+        ],
+        [
+            "biodegradable material",
+            "material biodegradable"
+        ],
+        [
+            "materials",
+            "materiales"
+        ],
+        [
+            "plastic",
+            "pl\u00e1stico"
+        ],
+        [
+            "superalloy",
+            "superaleaci\u00f3n"
+        ],
+        [
+            "temperature",
+            "temperatura"
+        ],
+        [
+            "optical property",
+            "propiedad \u00f3ptica"
+        ],
+        [
+            "strength",
+            "resistencia"
+        ],
+        [
+            "thermal expansion",
+            "expansi\u00f3n t\u00e9rmica"
+        ],
+        [
+            "ductility",
+            "ductilidad"
+        ],
+        [
+            "surface",
+            "superficie"
+        ],
+        [
+            "nanomaterials",
+            "nanomateriales"
+        ],
+        [
+            "tension",
+            "tensi\u00f3n"
+        ],
+        [
+            "crystallization",
+            "cristalizaci\u00f3n"
+        ],
+        [
+            "diffusion",
+            "difusi\u00f3n"
+        ],
+        [
+            "steel",
+            "acero"
+        ],
+        [
+            "safety",
+            "seguridad"
+        ],
+        [
+            "thermal stress",
+            "estr\u00e9s t\u00e9rmico"
+        ],
+        [
+            "melting point",
+            "punto de fusi\u00f3n"
+        ],
+        [
+            "corrosion",
+            "corrosi\u00f3n"
+        ],
+        [
+            "properties",
+            "propiedades"
+        ],
+        [
+            "ceramic",
+            "cer\u00e1mica"
+        ],
+        [
+            "solubility",
+            "solubilidad"
+        ],
+        [
+            "stress",
+            "esfuerzo"
+        ],
+        [
+            "coating",
+            "revestimiento"
+        ],
+        [
+            "fracture",
+            "fractura"
+        ],
+        [
+            "fatigue",
+            "fatiga"
+        ]
+    ],
+    "geoscience": [
+        [
+            "geology",
+            "geolog\u00eda"
+        ],
+        [
+            "earthquake",
+            "terremoto"
+        ],
+        [
+            "rock",
+            "roca"
+        ],
+        [
+            "mineral",
+            "mineral"
+        ],
+        [
+            "tectonic plate",
+            "placa tect\u00f3nica"
+        ],
+        [
+            "volcanic eruption",
+            "erupci\u00f3n volc\u00e1nica"
+        ],
+        [
+            "magma",
+            "magma"
+        ],
+        [
+            "lava",
+            "lava"
+        ],
+        [
+            "fault",
+            "falla"
+        ],
+        [
+            "metamorphic",
+            "metam\u00f3rfico"
+        ],
+        [
+            "sedimentary",
+            "sedimentario"
+        ],
+        [
+            "igneous",
+            "\u00edgneo"
+        ],
+        [
+            "seism",
+            "sismo"
+        ],
+        [
+            "quake",
+            "terremoto"
+        ],
+        [
+            "eruption",
+            "erupci\u00f3n"
+        ],
+        [
+            "groundwater",
+            "agua subterr\u00e1nea"
+        ],
+        [
+            "black hole",
+            "agujero negro"
+        ],
+        [
+            "coal",
+            "carb\u00f3n"
+        ],
+        [
+            "oil",
+            "petr\u00f3leo"
+        ],
+        [
+            "natural gas",
+            "gas natural"
+        ],
+        [
+            "stratification",
+            "estratificaci\u00f3n"
+        ],
+        [
+            "erosion",
+            "erosi\u00f3n"
+        ],
+        [
+            "mining",
+            "miner\u00eda"
+        ],
+        [
+            "exploration",
+            "exploraci\u00f3n"
+        ],
+        [
+            "glaciers",
+            "glaciares"
+        ],
+        [
+            "terrain",
+            "terreno"
+        ],
+        [
+            "earth's crust",
+            "corteza terrestre"
+        ],
+        [
+            "core",
+            "n\u00facleo"
+        ],
+        [
+            "mantle",
+            "mantos"
+        ],
+        [
+            "plate tectonics",
+            "tect\u00f3nica de placas"
+        ],
+        [
+            "wind",
+            "viento"
+        ],
+        [
+            "surface water",
+            "aguas superficiales"
+        ],
+        [
+            "genesis",
+            "g\u00e9nesis"
+        ],
+        [
+            "soil erosion",
+            "erosi\u00f3n del suelo"
+        ],
+        [
+            "pressure",
+            "presi\u00f3n"
+        ],
+        [
+            "temperature",
+            "temperatura"
+        ],
+        [
+            "salinity",
+            "salinidad"
+        ],
+        [
+            "geological map",
+            "mapa geol\u00f3gico"
+        ],
+        [
+            "raft",
+            "balsa"
+        ],
+        [
+            "sediment",
+            "sedimento"
+        ],
+        [
+            "seismic intensity",
+            "intensidad s\u00edsmica"
+        ],
+        [
+            "tectonics",
+            "tect\u00f3nica"
+        ],
+        [
+            "stratification",
+            "estratificaci\u00f3n"
+        ],
+        [
+            "wildfire",
+            "incendio forestal"
+        ],
+        [
+            "paleontology",
+            "paleontolog\u00eda"
+        ],
+        [
+            "intraplate tectonics",
+            "tect\u00f3nica intraplaca"
+        ]
+    ],
+    "computer science": [
+        [
+            "computer",
+            "computadora"
+        ],
+        [
+            "algorithm",
+            "algoritmo"
+        ],
+        [
+            "programming",
+            "programaci\u00f3n"
+        ],
+        [
+            "code",
+            "c\u00f3digo"
+        ],
+        [
+            "programming language",
+            "lenguaje de programaci\u00f3n"
+        ],
+        [
+            "database",
+            "base de datos"
+        ],
+        [
+            "operating system",
+            "sistema operativo"
+        ],
+        [
+            "network",
+            "red"
+        ],
+        [
+            "security",
+            "seguridad"
+        ],
+        [
+            "encryption",
+            "encriptaci\u00f3n"
+        ],
+        [
+            "compiler",
+            "compilador"
+        ],
+        [
+            "debugging",
+            "depuraci\u00f3n"
+        ],
+        [
+            "artificial intelligence",
+            "inteligencia artificial"
+        ],
+        [
+            "machine learning",
+            "machine learning"
+        ],
+        [
+            "neural network",
+            "red neuronal"
+        ],
+        [
+            "search algorithm",
+            "algoritmo de b\u00fasqueda"
+        ],
+        [
+            "data structure",
+            "estructura de datos"
+        ],
+        [
+            "cloud computing",
+            "computaci\u00f3n en la nube"
+        ],
+        [
+            "internet",
+            "internet"
+        ],
+        [
+            "program",
+            "programa"
+        ],
+        [
+            "function",
+            "funci\u00f3n"
+        ],
+        [
+            "variable",
+            "variable"
+        ],
+        [
+            "loops",
+            "bucles"
+        ],
+        [
+            "conditional",
+            "condicional"
+        ],
+        [
+            "processor",
+            "procesador"
+        ],
+        [
+            "microcontroller",
+            "microcontrolador"
+        ],
+        [
+            "concurrency",
+            "concurrencia"
+        ],
+        [
+            "assembly language",
+            "lenguaje ensamblador"
+        ],
+        [
+            "web page",
+            "p\u00e1gina web"
+        ],
+        [
+            "server",
+            "servidor"
+        ],
+        [
+            "client",
+            "cliente"
+        ],
+        [
+            "stack",
+            "pila"
+        ],
+        [
+            "queue",
+            "cola"
+        ],
+        [
+            "quantum computer",
+            "computadora cu\u00e1ntica"
+        ],
+        [
+            "data",
+            "datos"
+        ],
+        [
+            "storage",
+            "almacenamiento"
+        ],
+        [
+            "interface",
+            "interfaz"
+        ],
+        [
+            "user",
+            "usuario"
+        ],
+        [
+            "sorting algorithm",
+            "algoritmo de ordenaci\u00f3n"
+        ],
+        [
+            "software testing",
+            "prueba de software"
+        ],
+        [
+            "information system",
+            "sistema de informaci\u00f3n"
+        ],
+        [
+            "cipher",
+            "cifrado"
+        ],
+        [
+            "hardware",
+            "hardware"
+        ],
+        [
+            "software",
+            "software"
+        ],
+        [
+            "object-oriented programming",
+            "programaci\u00f3n orientada a objetos"
+        ],
+        [
+            "data compression",
+            "compresi\u00f3n de datos"
+        ],
+        [
+            "coding",
+            "codificaci\u00f3n"
+        ],
+        [
+            "software development",
+            "desarrollo de software"
+        ],
+        [
+            "social networks",
+            "redes sociales"
+        ],
+        [
+            "web development",
+            "desarrollo web"
+        ]
+    ],
+    "physics": [
+        [
+            "physics",
+            "f\u00edsica"
+        ],
+        [
+            "energy",
+            "energ\u00eda"
+        ],
+        [
+            "law of gravity",
+            "ley de la gravedad"
+        ],
+        [
+            "force",
+            "fuerza"
+        ],
+        [
+            "mass",
+            "masa"
+        ],
+        [
+            "velocity",
+            "velocidad"
+        ],
+        [
+            "acceleration",
+            "aceleraci\u00f3n"
+        ],
+        [
+            "work",
+            "trabajo"
+        ],
+        [
+            "power",
+            "potencia"
+        ],
+        [
+            "pressure",
+            "presi\u00f3n"
+        ],
+        [
+            "temperature",
+            "temperatura"
+        ],
+        [
+            "matter",
+            "materia"
+        ],
+        [
+            "motion",
+            "movimiento"
+        ],
+        [
+            "momentum",
+            "impulso"
+        ],
+        [
+            "electric charge",
+            "carga el\u00e9ctrica"
+        ],
+        [
+            "electric field",
+            "campo el\u00e9ctrico"
+        ],
+        [
+            "magnetism",
+            "magnetismo"
+        ],
+        [
+            "light",
+            "luz"
+        ],
+        [
+            "waves",
+            "ondas"
+        ],
+        [
+            "frequency",
+            "frecuencia"
+        ],
+        [
+            "wavelength",
+            "longitud de onda"
+        ],
+        [
+            "resistance",
+            "resistencia"
+        ],
+        [
+            "voltage",
+            "voltaje"
+        ],
+        [
+            "current",
+            "corriente"
+        ],
+        [
+            "Ohm's law",
+            "ley de Ohm"
+        ],
+        [
+            "electromagnetism",
+            "electromagnetismo"
+        ],
+        [
+            "quantum theory",
+            "teor\u00eda cu\u00e1ntica"
+        ],
+        [
+            "relativity",
+            "relatividad"
+        ],
+        [
+            "gravitation",
+            "gravitaci\u00f3n"
+        ],
+        [
+            "string theory",
+            "teor\u00eda de cuerdas"
+        ],
+        [
+            "boson",
+            "bos\u00f3n"
+        ],
+        [
+            "particle",
+            "part\u00edcula"
+        ],
+        [
+            "fusion",
+            "fusi\u00f3n"
+        ],
+        [
+            "radioactivity",
+            "radiactividad"
+        ],
+        [
+            "physicist",
+            "f\u00edsico"
+        ],
+        [
+            "experiment",
+            "experimento"
+        ],
+        [
+            "atom",
+            "\u00e1tomo"
+        ],
+        [
+            "electron",
+            "electr\u00f3n"
+        ],
+        [
+            "proton",
+            "prot\u00f3n"
+        ],
+        [
+            "neutron",
+            "neutr\u00f3n"
+        ],
+        [
+            "quark",
+            "quark"
+        ],
+        [
+            "field theory",
+            "teor\u00eda de campos"
+        ],
+        [
+            "superconductivity",
+            "superconductividad"
+        ],
+        [
+            "general relativity",
+            "relatividad general"
+        ],
+        [
+            "particle physics",
+            "f\u00edsica de part\u00edculas"
+        ],
+        [
+            "special relativity",
+            "teor\u00eda de la relatividad especial"
+        ],
+        [
+            "Bose-Einstein condensate",
+            "condensado de Bose-Einstein"
+        ],
+        [
+            "Higgs boson",
+            "bos\u00f3n de Higgs"
+        ],
+        [
+            "kinetic energy",
+            "energ\u00eda cin\u00e9tica"
+        ],
+        [
+            "potential energy",
+            "energ\u00eda potencial"
+        ]
+    ],
+    "biology": [
+        [
+            "biology",
+            "biolog\u00eda"
+        ],
+        [
+            "cell",
+            "c\u00e9lula"
+        ],
+        [
+            "DNA",
+            "ADN"
+        ],
+        [
+            "gene",
+            "gen"
+        ],
+        [
+            "protein",
+            "prote\u00edna"
+        ],
+        [
+            "enzyme",
+            "enzima"
+        ],
+        [
+            "mitochondrion",
+            "mitocondria"
+        ],
+        [
+            "nucleus",
+            "n\u00facleo"
+        ],
+        [
+            "cell membrane",
+            "membrana celular"
+        ],
+        [
+            "ribosome",
+            "ribosoma"
+        ],
+        [
+            "chromosome",
+            "cromosoma"
+        ],
+        [
+            "chloroplast",
+            "cloroplasto"
+        ],
+        [
+            "cell theory",
+            "teor\u00eda celular"
+        ],
+        [
+            "ecosystem",
+            "ecosistema"
+        ],
+        [
+            "species",
+            "especie"
+        ],
+        [
+            "evolution",
+            "evoluci\u00f3n"
+        ],
+        [
+            "adaptation",
+            "adaptaci\u00f3n"
+        ],
+        [
+            "photosynthesis",
+            "fotos\u00edntesis"
+        ],
+        [
+            "cellular respiration",
+            "respiraci\u00f3n celular"
+        ],
+        [
+            "biome",
+            "bioma"
+        ],
+        [
+            "taxonomy",
+            "taxonom\u00eda"
+        ],
+        [
+            "microbiology",
+            "microbiolog\u00eda"
+        ],
+        [
+            "anatomy",
+            "anatom\u00eda"
+        ],
+        [
+            "physiology",
+            "fisiolog\u00eda"
+        ],
+        [
+            "genetics",
+            "gen\u00e9tica"
+        ],
+        [
+            "biotechnology",
+            "biotecnolog\u00eda"
+        ],
+        [
+            "medicine",
+            "medicina"
+        ],
+        [
+            "virus",
+            "virus"
+        ],
+        [
+            "bacteria",
+            "bacteria"
+        ],
+        [
+            "fungi",
+            "hongos"
+        ],
+        [
+            "plant",
+            "planta"
+        ],
+        [
+            "animal",
+            "animal"
+        ],
+        [
+            "genome",
+            "genoma"
+        ],
+        [
+            "theory of evolution",
+            "teor\u00eda de la evoluci\u00f3n"
+        ],
+        [
+            "Mendelism",
+            "mendelismo"
+        ],
+        [
+            "biological systems",
+            "sistemas biol\u00f3gicos"
+        ],
+        [
+            "adaptation to environment",
+            "adaptaci\u00f3n al ambiente"
+        ],
+        [
+            "cell cycle",
+            "ciclo celular"
+        ],
+        [
+            "scientific method",
+            "m\u00e9todo cient\u00edfico"
+        ],
+        [
+            "thermodynamics",
+            "termodin\u00e1mica"
+        ],
+        [
+            "biosphere",
+            "biosfera"
+        ],
+        [
+            "microbiome",
+            "microbioma"
+        ],
+        [
+            "ecology",
+            "ecolog\u00eda"
+        ],
+        [
+            "stem cells",
+            "c\u00e9lulas madre"
+        ],
+        [
+            "embryonic development",
+            "desarrollo embrionario"
+        ],
+        [
+            "molecular biology",
+            "biolog\u00eda molecular"
+        ],
+        [
+            "homeostasis",
+            "homeostasis"
+        ],
+        [
+            "evolutionary biology",
+            "biolog\u00eda evolutiva"
+        ],
+        [
+            "animal physiology",
+            "fisiolog\u00eda animal"
+        ]
+    ]
+}
